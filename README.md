@@ -1,6 +1,3 @@
-# SimpleNotepad
-Notepad App
-
 # Simple Notepad App
 A basic Notepad-like text editor built with **java swing**.  
 It provides simple text editing features with `open`, `Save`, and `Exit` options.
@@ -25,5 +22,5 @@ Menu bar with:
 2. Open Command Prompt (Windows) or Terminal (Mac/Linux).
 3. Navigate to the folder where the file is saved.
    
-   cd path/to/your/folder
+  
 
