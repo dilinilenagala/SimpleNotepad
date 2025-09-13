@@ -3,7 +3,7 @@ Notepad App
 
 # Simple Notepad App
 A basic Notepad-like text editor built with **java swing**.  
-It provides simple text editing features with `Open`, `Save`, and `Exit` options.
+It provides simple text editing features with 'open', `Save`, and `Exit` options.
 
 ## Features
 Text editing area with scroll bar
